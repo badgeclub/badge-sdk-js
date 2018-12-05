@@ -1,4 +1,4 @@
-# Badge Javscript SDK
+# Badge Javascript SDK
 
 This NPM package provides seamless access to the Badge API.
 
