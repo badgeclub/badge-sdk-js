@@ -1,4 +1,4 @@
-# BadgeApi.ProfilesApi
+# Badge.ProfilesApi
 
 All URIs are relative to *https://badge-referrals-staging.herokuapp.com*
 
@@ -17,9 +17,9 @@ Returns a list of all the profiles
 
 ### Example
 ```javascript
-var BadgeApi = require('badge_api');
+var Badge = require('badge');
 
-var apiInstance = new BadgeApi.ProfilesApi();
+var apiInstance = new Badge.ProfilesApi();
 
 var authorization = "authorization_example"; // String | An API token that authenticates and authorizes an API user. Passed as 'Authorization: [api_token]'.
 

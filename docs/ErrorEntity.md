@@ -1,4 +1,4 @@
-# BadgeApi.ErrorEntity
+# Badge.ErrorEntity
 
 ## Properties
 Name | Type | Description | Notes

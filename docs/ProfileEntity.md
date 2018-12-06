@@ -1,4 +1,4 @@
-# BadgeApi.ProfileEntity
+# Badge.ProfileEntity
 
 ## Properties
 Name | Type | Description | Notes
